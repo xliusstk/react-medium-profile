@@ -1,13 +1,13 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
 
-import ExampleComponent from 'react-medium-profile'
+import MediumProfile from "react-medium-profile";
 
 export default class App extends Component {
-  render () {
+  render() {
     return (
       <div>
-        <ExampleComponent text='Modern React component module' />
+        <MediumProfile username={"dee.aye.en"} />
       </div>
-    )
+    );
   }
 }
