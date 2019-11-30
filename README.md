@@ -10,6 +10,7 @@
 npm install --save react-medium-profile
 ```
 
+[Demo](https://deeayeen.github.io/react-medium-profile)
 ![Demo Gif](https://i.imgur.com/RNYCDub.gif)
 
 ## Usage
@@ -25,6 +26,11 @@ class Example extends Component {
   }
 }
 ```
+
+## Props
+
+username: string (required)
+size: number (optional - size of widget)
 
 ## License
 
