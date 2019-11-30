@@ -10,6 +10,8 @@
 npm install --save react-medium-profile
 ```
 
+![Demo Gif](https://i.imgur.com/McP1WJj.gif)
+
 ## Usage
 
 ```jsx
