@@ -10,7 +10,7 @@
 npm install --save react-medium-profile
 ```
 
-![Demo Gif](https://i.imgur.com/McP1WJj.gif)
+![Demo Gif](https://i.imgur.com/RNYCDub.gif)
 
 ## Usage
 
