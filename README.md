@@ -11,6 +11,7 @@ npm install --save react-medium-profile
 ```
 
 [Demo](https://deeayeen.github.io/react-medium-profile)
+<br />
 ![Demo Gif](https://i.imgur.com/RNYCDub.gif)
 
 ## Usage
