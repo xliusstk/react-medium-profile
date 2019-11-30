@@ -30,7 +30,7 @@ class Example extends Component {
 
 ## Props
 
-username: string (required)
+username: string (required) <br />
 size: number (optional - size of widget)
 
 ## License
