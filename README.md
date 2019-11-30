@@ -13,15 +13,13 @@ npm install --save react-medium-profile
 ## Usage
 
 ```jsx
-import React, { Component } from 'react'
+import React, { Component } from "react";
 
-import MyComponent from 'react-medium-profile'
+import MediumProfile from "react-medium-profile";
 
 class Example extends Component {
-  render () {
-    return (
-      <MyComponent />
-    )
+  render() {
+    return <MediumProfile username={"dee.aye.en"} />;
   }
 }
 ```
