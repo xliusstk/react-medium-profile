@@ -95,9 +95,10 @@ export default class App extends Component {
         <div style={{ position: "fixed", top: "10px", right: "10px" }}>
           <a
             target="_blank"
+            rel="noopener noreferrer"
             href="https://github.com/deeayeen/react-medium-profile"
           >
-            <img width="30px" src={GithubLogo} />
+            <img width="30px" alt="github" src={GithubLogo} />
           </a>
         </div>
       </div>

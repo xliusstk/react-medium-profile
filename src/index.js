@@ -127,6 +127,7 @@ export default class MediumProfile extends Component {
                       style={{ fontWeight: "bolder", color: "black" }}
                       href={`https://medium.com/@${this.props.username}`}
                       target="_blank"
+                      rel="noopener noreferrer"
                     >
                       {this.state.items.length > 0
                         ? this.state.items[0].author
@@ -185,6 +186,7 @@ export default class MediumProfile extends Component {
                       <a
                         style={{ color: "gray" }}
                         target="_blank"
+                        rel="noopener noreferrer"
                         href={item.link}
                       >
                         {item.title}
